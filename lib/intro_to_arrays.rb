@@ -8,6 +8,6 @@
   end
 
   def first_element(array,first_element)
-    array[first_element]
+    amy_first_element = first_element(array)
 
   end
