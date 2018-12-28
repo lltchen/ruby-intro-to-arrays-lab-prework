@@ -1,7 +1,13 @@
-def instantiate_new_array
-  my_new_array = []
-end
-def array_with_two_elements
-  my_two_array = ['cat', 'dog']
+  def instantiate_new_array
+    my_new_array = []
+  end
 
-end
+  def array_with_two_elements
+    my_two_array = ['cat', 'dog']
+
+  end
+
+  def first_element(array,first_element)
+    array = [first_element]
+
+  end
